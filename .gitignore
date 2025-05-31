@@ -1,3 +1,14 @@
+ Cairo / Scarb specific
+/target
+.scarb
+*.sierra.json
+*.casm.json
+*.compiled_contract_class.json
+.cairo
+.vscode
+.DS_Store
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
